@@ -31,12 +31,12 @@ const ChooseUsContainerData = [
     {
         image:'images/adv2.png',
         title:'Simple search process',
-        discription:'We checked it out, even the kid did it, but it was my moms friends son'
+        discription:'We checked it out, even the kid did it, but it was my mom\'s friend\'s son'
     },
     {
         image:'images/adv3.png',
         title:'24/7 Support',
-        discription:'Is there something you dont understand? Feel free to call us. Phone number in the footer'
+        discription:'Is there something you don\'t understand? Feel free to call us. Phone number in the footer'
     },
     {
         image:'images/adv4.png',
@@ -167,7 +167,7 @@ const postsContainerData = [
     clock: 'images/time.svg ',
     minutes:'15 minutes',
     detail1: 'Tips for flying on a plane',
-    detail2: 'If you have a fear of flying, heres a helpful tip: bring your co-pilot so you can take a nap while he steers the plane for you'
+    detail2: 'If you have a fear of flying, here\'s a helpful tip: bring your co-pilot so you can take a nap while he steers the plane for you'
 },
 ];
 
