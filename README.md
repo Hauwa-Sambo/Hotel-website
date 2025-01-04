@@ -32,6 +32,11 @@ This project is built using HTML, CSS and JavaScript, and provides a visually ap
 
 - Check out the Live Demo of the Project: [Live Demo]( https://hotel-website-mvc7.onrender.com)
 
+## Loom-video
+
+- This is the link to the loom video on the project: [Loom Video] (https://www.loom.com/share/b5f592fb6dfb46298f3576f2a765fbd1?sid=d82e866c-d9d6-4a87-88eb-0e262b2b9bf5)
+
+
 ## Technologies Used
 
 - HTML5
