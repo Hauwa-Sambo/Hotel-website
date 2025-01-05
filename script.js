@@ -24,7 +24,7 @@ function close(){
 
 const ChooseUsContainerData = [
     {
-        image:'images\payment.png',
+        image:'img src= images/payment.png',
         title:'Payment methods',
         discription:'We have a lot of them, from cryptocurrencies to barter for potatoes'
     },
