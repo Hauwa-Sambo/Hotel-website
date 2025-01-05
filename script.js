@@ -24,22 +24,22 @@ function close(){
 
 const ChooseUsContainerData = [
     {
-        image:'img src= images/payment.png',
+        image:'images/payment.png',
         title:'Payment methods',
         discription:'We have a lot of them, from cryptocurrencies to barter for potatoes'
     },
     {
-        image:'images/adv2.png',
+        image:'images/Search.png',
         title:'Simple search process',
         discription:'We checked it out, even the kid did it, but it was my mom\'s friend\'s son'
     },
     {
-        image:'images/adv3.png',
+        image:'images/Support.png',
         title:'24/7 Support',
         discription:'Is there something you don\'t understand? Feel free to call us. Phone number in the footer'
     },
     {
-        image:'images/adv4.png',
+        image:'images/NiceCat.png',
         title:'We are nice',
         discription:'Fantasy is over, there will be something really convincing here'
     }
